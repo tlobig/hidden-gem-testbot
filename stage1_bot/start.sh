@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-./bot
+make 1>&2 && ./bot
